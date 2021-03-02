@@ -71,7 +71,7 @@ test.png：原始图片
 ## 运行环境
 
 ```
-python						3.7.6
+python                        3.7.6
 opencv-python                 4.2.0.34
 matplotlib                    3.2.2
 torch                         1.5.1

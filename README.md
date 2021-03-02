@@ -62,7 +62,7 @@ main.py：主文件
 
 model.py：模型文件
 
-SSIM_loss.py：SSIM损失函数文件，来自于：[pytorch_ssim](https://github.com/Po-Hsun-Su/pytorch-ssim/blob/master/pytorch_ssim/__init__.py)
+SSIM_loss.py：SSIM损失函数文件，来自于[pytorch_ssim](https://github.com/Po-Hsun-Su/pytorch-ssim/blob/master/pytorch_ssim/__init__.py)
 
 test.png：原始图片
 
